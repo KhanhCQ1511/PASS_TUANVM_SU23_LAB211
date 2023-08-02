@@ -11,4 +11,5 @@ Một số lưu ý khi học LAB thầy Tuấn:
     + Comment code ở ba vị trí: Điều kiện, vòng lặp và regex (chú ý comment đúng chức năng thực hiện của 1 dòng lệnh phía dưới cmt đó, thừa là sai (với thầy Tuấn là vậy)). Ngoài ba vị trí trên thì comment ở hàm chính thì không nên cmt ở đâu nữa, thừa nhiều bị reject.
     + Nếu bạn code không tốt, thì hãy nên đọc kĩ các bài code mẫu, sau đó tự code lại, tìm hiểu chức năng của từng hàm để lên solo với thầy tự tin.
   - Điều cuối cùng để pass là hãy đi học đầy đủ và tự code. Đừng nản vì 5-6 tuần đầu bạn không lên được 100 loc đâu.
+
 Cần giúp đỡ có thể dr qua tele: @k0i3n
