@@ -1,0 +1,20 @@
+C1,Toyota Camry,Silver,25000.0,Toyota,Sedan,2022
+C2,Honda Accord,White,27000.0,Honda,Sedan,2023
+C3,Ford F-150,Black,40000.0,Ford,Truck,2022
+C4,Chevrolet Equinox,Red,30000.0,Chevrolet,SUV,2023
+C5,Hyundai Elantra,Blue,22000.0,Hyundai,Sedan,2022
+C6,Jeep Wrangler,Green,35000.0,Jeep,SUV,2023
+C7,BMW X5,Gray,55000.0,BMW,SUV,2022
+C8,Mercedes-Benz C-Class,Black,48000.0,Mercedes-Benz,Sedan,2023
+C9,Audi Q5,White,52000.0,Audi,SUV,2022
+C10,Subaru Outback,Silver,32000.0,Subaru,Wagon,2023
+M1,Honda CBR500R,Red,6500.0,Honda,105.0,A2
+M2,Yamaha MT-07,Blue,8000.0,Yamaha,110.0,A2
+M3,Kawasaki Ninja 400,Green,6000.0,Kawasaki,120.0,A2
+M4,Suzuki GSX-R750,Black,9500.0,Suzuki,150.0,A
+M5,Ducati Monster 821,Gray,11500.0,Ducati,140.0,A
+M6,KTM Duke 390,Orange,5500.0,KTM,95.0,A2
+M7,BMW S1000RR,White,15500.0,BMW,186.0,A
+M8,Harley-Davidson Sportster,Black,12000.0,Harley-Davidson,95.0,A
+M9,Indian Scout,Brown,11500.0,Indian,100.0,A
+M10,Triumph Bonneville,Blue,9500.0,Triumph,80.0,A2
